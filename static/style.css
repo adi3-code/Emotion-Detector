@@ -1,0 +1,213 @@
+:root {
+  --accent: #6b6b6b;
+  --accent-deep: #0e0e0e;
+  --bg: #0b0b0d;
+  --panel: #141418;
+  --ink: #f2f0ec;
+  --ink-dim: #9a978f;
+  --border: rgba(255,255,255,0.08);
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  min-height: 100vh;
+}
+
+.grain {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.035;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  z-index: 0;
+}
+
+.stage {
+  position: relative;
+  z-index: 1;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 48px 24px 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.topline {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 40px;
+}
+
+.mark {
+  font-family: 'Fraunces', serif;
+  font-weight: 600;
+  font-size: 1.1rem;
+  letter-spacing: 0.08em;
+}
+
+.tag {
+  font-size: 0.78rem;
+  color: var(--ink-dim);
+  letter-spacing: 0.02em;
+}
+
+.dial-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 36px;
+}
+
+.dial {
+  width: 176px;
+  height: 176px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:
+    radial-gradient(circle at 35% 30%, var(--accent) 0%, transparent 60%),
+    var(--accent-deep);
+  border: 1px solid var(--border);
+  transition: background 0.6s ease;
+  box-shadow: 0 0 60px -12px var(--accent);
+}
+
+.dial-emoji {
+  font-size: 4.2rem;
+  filter: drop-shadow(0 4px 12px rgba(0,0,0,0.4));
+}
+
+@keyframes pulse {
+  0% { transform: scale(0.94); }
+  50% { transform: scale(1.03); }
+  100% { transform: scale(1); }
+}
+.dial.pulse { animation: pulse 0.5s ease; }
+
+.dial-label {
+  margin-top: 18px;
+  font-family: 'Fraunces', serif;
+  font-size: 1.15rem;
+  font-weight: 500;
+  color: var(--ink);
+  text-transform: capitalize;
+}
+
+.console {
+  width: 100%;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 20px;
+}
+
+.console-label {
+  display: block;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  margin-bottom: 10px;
+}
+
+.console-input {
+  width: 100%;
+  resize: vertical;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  padding: 0;
+}
+
+.console-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
+}
+
+.submit-btn {
+  background: var(--ink);
+  color: #0b0b0d;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 999px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+.submit-btn:hover { transform: translateY(-1px); }
+.submit-btn:disabled { opacity: 0.5; cursor: default; transform: none; }
+
+.hint {
+  font-size: 0.78rem;
+  color: var(--ink-dim);
+}
+
+.bars {
+  width: 100%;
+  margin-top: 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.bar-row {
+  display: grid;
+  grid-template-columns: 22px 74px 1fr 40px;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.82rem;
+}
+
+.bar-name { text-transform: capitalize; color: var(--ink-dim); }
+
+.bar-track {
+  height: 6px;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.06);
+  overflow: hidden;
+}
+
+.bar-fill {
+  height: 100%;
+  border-radius: 999px;
+  transition: width 0.5s ease;
+}
+
+.bar-pct { text-align: right; color: var(--ink-dim); }
+
+.footnote {
+  margin-top: 40px;
+  font-size: 0.72rem;
+  color: var(--ink-dim);
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .dial.pulse { animation: none; }
+}
+
+@media (max-width: 480px) {
+  .stage { padding: 32px 16px 48px; }
+  .dial { width: 140px; height: 140px; }
+  .dial-emoji { font-size: 3.4rem; }
+}

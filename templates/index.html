@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Moodline — Emotion Detector</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+  <div class="grain"></div>
+
+  <main class="stage">
+    <header class="topline">
+      <span class="mark">MOODLINE</span>
+      <span class="tag">a text emotion reader</span>
+    </header>
+
+    <section class="dial-wrap">
+      <div class="dial" id="dial">
+        <span class="dial-emoji" id="dialEmoji">🙂</span>
+      </div>
+      <p class="dial-label" id="dialLabel">waiting for input</p>
+    </section>
+
+    <section class="console">
+      <label for="inputText" class="console-label">what's on your mind</label>
+      <textarea id="inputText" class="console-input" rows="3"
+        placeholder="I just found out I got the internship offer..."></textarea>
+      <div class="console-row">
+        <button id="submitBtn" class="submit-btn">Read it</button>
+        <span class="hint" id="hint">Press Enter to read, Shift+Enter for a new line</span>
+      </div>
+    </section>
+
+    <section class="bars" id="bars" aria-hidden="true"></section>
+
+    <p class="footnote">TF-IDF + Logistic Regression, trained on a self-generated dataset · 6 emotions</p>
+  </main>
+
+<script>
+const EMOJI = {joy:"😄", sadness:"😢", anger:"😡", fear:"😨", surprise:"😲", love:"❤️"};
+const COLOR = {
+  joy:      {a:"#f4b942", b:"#2a1e05"},
+  sadness:  {a:"#4f7cac", b:"#0b1622"},
+  anger:    {a:"#e5533d", b:"#210805"},
+  fear:     {a:"#7c5cbf", b:"#150c26"},
+  surprise: {a:"#3fc1c9", b:"#04211f"},
+  love:     {a:"#e2547a", b:"#22060f"},
+};
+
+const dial = document.getElementById('dial');
+const dialEmoji = document.getElementById('dialEmoji');
+const dialLabel = document.getElementById('dialLabel');
+const input = document.getElementById('inputText');
+const btn = document.getElementById('submitBtn');
+const barsEl = document.getElementById('bars');
+const hint = document.getElementById('hint');
+
+function setMood(emotion, label) {
+  const c = COLOR[emotion];
+  if (c) {
+    document.documentElement.style.setProperty('--accent', c.a);
+    document.documentElement.style.setProperty('--accent-deep', c.b);
+  }
+  dialEmoji.textContent = EMOJI[emotion] || "🙂";
+  dialLabel.textContent = label || "waiting for input";
+  dial.classList.remove('pulse');
+  void dial.offsetWidth;
+  dial.classList.add('pulse');
+}
+
+function renderBars(confidence) {
+  if (!confidence) { barsEl.innerHTML = ""; return; }
+  const entries = Object.entries(confidence).sort((a,b) => b[1]-a[1]);
+  barsEl.innerHTML = entries.map(([emo, pct]) => `
+    <div class="bar-row">
+      <span class="bar-emoji">${EMOJI[emo] || ""}</span>
+      <span class="bar-name">${emo}</span>
+      <div class="bar-track"><div class="bar-fill" style="width:${pct}%; background: var(--accent)"></div></div>
+      <span class="bar-pct">${pct}%</span>
+    </div>`).join("");
+}
+
+async function readMood() {
+  const text = input.value.trim();
+  if (!text) { hint.textContent = "Type something first."; return; }
+  btn.disabled = true;
+  const original = btn.textContent;
+  btn.textContent = "Reading…";
+  try {
+    const res = await fetch("/predict", {
+      method: "POST",
+      headers: {"Content-Type": "application/json"},
+      body: JSON.stringify({text})
+    });
+    const data = await res.json();
+    if (!res.ok) {
+      hint.textContent = data.error || "Something went wrong.";
+    } else {
+      setMood(data.emotion, data.label);
+      renderBars(data.confidence);
+      hint.textContent = "Press Enter to read, Shift+Enter for a new line";
+    }
+  } catch (err) {
+    hint.textContent = "Couldn't reach the server.";
+  } finally {
+    btn.disabled = false;
+    btn.textContent = original;
+  }
+}
+
+btn.addEventListener('click', readMood);
+input.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter' && !e.shiftKey) {
+    e.preventDefault();
+    readMood();
+  }
+});
+</script>
+</body>
+</html>

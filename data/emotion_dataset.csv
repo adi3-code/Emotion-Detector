@@ -1,0 +1,601 @@
+text,emotion
+"Honestly, my family cooked dinner together after a long time and felt so much warmth.",love
+"Honestly, my teammate finished the project on time and felt on top of the world.",joy
+"I lost an important file before submission, it was a really hard day.",sadness
+"Today I saw a surprise party waiting at home, nobody saw it coming.",surprise
+"Today I received a handmade gift from a sibling, it was such a warm feeling.",love
+"Honestly, my friend missed the train home and was devastated.",sadness
+My teammate saw the server crash right before the demo and felt so anxious.,fear
+She got a rude reply from support and was furious.,anger
+"Honestly, my family bumped into a celebrity at the mall and was stunned.",surprise
+My colleague spent the whole evening with family and felt so much warmth.,love
+"Honestly, they received a handmade gift from a sibling and felt deeply connected.",love
+"Today he heard strange noises outside at night, my hands were shaking.",fear
+"Today he got selected for the internship, it made my whole day.",joy
+We celebrated an anniversary with loved ones and felt so loved.,love
+I just opened the box to find a puppy inside — it caught everyone off guard.,surprise
+She just spent the whole evening with family — it meant the world to me.,love
+"Honestly, my friend got a rude reply from support and couldn't control the anger.",anger
+"My sister felt the ground shake during the earthquake drill, it kept me on edge.",fear
+They just cooked dinner together after a long time — it was such a warm feeling.,love
+"Today my teammate waited two hours for a delayed flight, I couldn't calm down for hours.",anger
+"Today he found out the exam was cancelled, nobody saw it coming.",surprise
+I felt the ground shake during the earthquake drill and was shaking with worry.,fear
+He have to walk home alone late at night and felt a wave of panic.,fear
+My friend found the code deleted with no backup and couldn't control the anger.,anger
+"Honestly, my family received an unexpected job offer and was completely shocked.",surprise
+My teammate found the code deleted with no backup and couldn't control the anger.,anger
+"Honestly, they got selected for the internship and was overjoyed.",joy
+"Honestly, my teammate reunited with childhood friends and felt so loved.",love
+My sister got a heartfelt letter from a close friend and felt truly grateful.,love
+My friend just saw the server crash right before the demo — it kept me on edge.,fear
+"Honestly, I watched the team lose in the last minute and felt like crying.",sadness
+"Today my family learned the flight got upgraded for free, it was unbelievable.",surprise
+"Today my family saw a surprise party waiting at home, it was unbelievable.",surprise
+My teammate just was accused of cheating unfairly — I couldn't calm down for hours.,anger
+"Today my sister didn't get the internship offer, it hurt more than expected.",sadness
+He just found the code deleted with no backup — it ruined my mood completely.,anger
+"Today my colleague got a rude reply from support, it was so frustrating.",anger
+"Honestly, my colleague found the code deleted with no backup and couldn't control the anger.",anger
+"Honestly, we have to give a presentation tomorrow and felt a wave of panic.",fear
+I just found out the exam was cancelled — I had to sit down for a second.,surprise
+"Today we got selected for the internship, it felt amazing.",joy
+"Today he learned the flight got upgraded for free, I had to sit down for a second.",surprise
+"We found out the exam was cancelled, I had to sit down for a second.",surprise
+"Honestly, he felt the ground shake during the earthquake drill and was terrified.",fear
+"Today I met an old friend after years, it was such a happy moment.",joy
+"Honestly, they met an old friend after years and felt absolutely thrilled.",joy
+My colleague might lose the job after the merger and was terrified.,fear
+"Today we saw a surprise party waiting at home, nobody saw it coming.",surprise
+"They received disappointing feedback on the project, it hurt more than expected.",sadness
+"Honestly, my colleague are waiting for risky medical test results and felt so anxious.",fear
+"Honestly, my colleague planned a surprise trip for the family and felt truly grateful.",love
+She are waiting for risky medical test results and was terrified.,fear
+My colleague saw the server crash right before the demo and was really scared.,fear
+"Honestly, we failed the exam despite studying hard and felt really down.",sadness
+"My colleague reunited with childhood friends, it was such a warm feeling.",love
+"My teammate received an unexpected job offer, it caught everyone off guard.",surprise
+"They received an unexpected job offer, nobody saw it coming.",surprise
+"Honestly, I watched the sunset with someone special and felt deeply connected.",love
+"Today we felt the ground shake during the earthquake drill, I barely slept that night.",fear
+"She found an old photo hidden in a drawer, it caught everyone off guard.",surprise
+"Honestly, my friend won the cricket match and couldn't stop smiling.",joy
+My colleague just passed the final exam — it was such a happy moment.,joy
+My family just received disappointing feedback on the project — it hurt more than expected.,sadness
+"Today my sister was accused of cheating unfairly, it really wasn't fair.",anger
+They just got a random bonus from work — I had to sit down for a second.,surprise
+"Today my family heard strange noises outside at night, my hands were shaking.",fear
+My family just failed the exam despite studying hard — it left me in tears.,sadness
+My colleague adopted a puppy from the shelter and cherished every moment.,love
+"Honestly, my friend failed the exam despite studying hard and felt heartbroken.",sadness
+"My friend have to walk home alone late at night, my hands were shaking.",fear
+"Today we kept getting spam calls all day, it was so frustrating.",anger
+She have to walk home alone late at night and was shaking with worry.,fear
+We just received a handmade gift from a sibling — I felt truly at peace.,love
+She just got a warm hug after a rough week — it meant the world to me.,love
+My colleague just got an unexpected call from an old friend — I had to sit down for a second.,surprise
+"My teammate got into the college of my dreams, it made my whole day.",joy
+They lost the match in the final over and felt really down.,sadness
+"Honestly, my friend had the internet go down during the exam and felt so frustrated.",anger
+My sister kept getting spam calls all day and was furious.,anger
+"Honestly, she was ignored during the meeting and was fuming.",anger
+My family got a random bonus from work and was totally caught off guard.,surprise
+"My colleague lost the way on a dark road, my hands were shaking.",fear
+"Honestly, I lost the match in the final over and felt heartbroken.",sadness
+"My friend got promoted at work, it made my whole day.",joy
+She heard strange noises outside at night and was shaking with worry.,fear
+"My sister are waiting for risky medical test results, I couldn't stop worrying.",fear
+My family got into the college of my dreams and was overjoyed.,joy
+"Honestly, we cooked a perfect meal and was overjoyed.",joy
+"I was ignored during the meeting, it really wasn't fair.",anger
+"Honestly, my sister planned a surprise trip for the family and felt so loved.",love
+"Today they passed the final exam, it was such a happy moment.",joy
+My friend found out the exam was cancelled and was stunned.,surprise
+"Honestly, my friend got into the college of my dreams and felt absolutely thrilled.",joy
+"Today my family have a final viva next week, I barely slept that night.",fear
+"Honestly, he spent the weekend alone and unwell and felt like crying.",sadness
+He just met an old friend after years — it was such a happy moment.,joy
+My colleague just got a heartfelt letter from a close friend — it filled my heart.,love
+My colleague missed the train home and felt like crying.,sadness
+He just opened the box to find a puppy inside — it caught everyone off guard.,surprise
+"Today she failed the exam despite studying hard, it hurt more than expected.",sadness
+"Today my family waited two hours for a delayed flight, I couldn't calm down for hours.",anger
+I found an old photo hidden in a drawer and was totally caught off guard.,surprise
+"We might lose the job after the merger, I couldn't stop worrying.",fear
+"Today my friend kept getting spam calls all day, it was so frustrating.",anger
+"My family finished the project on time, it felt amazing.",joy
+"I got a surprise gift, it made my whole day.",joy
+"Today my teammate lost the way on a dark road, I barely slept that night.",fear
+He just got a random bonus from work — it was unbelievable.,surprise
+"My family found the code deleted with no backup, it ruined my mood completely.",anger
+"We heard strange noises outside at night, it kept me on edge.",fear
+I got promoted at work and felt absolutely thrilled.,joy
+"My family felt the ground shake during the earthquake drill, it kept me on edge.",fear
+"Honestly, he won the cricket match and was overjoyed.",joy
+My family got promoted at work and felt on top of the world.,joy
+"Honestly, he waited two hours for a delayed flight and was really irritated.",anger
+"My family opened the box to find a puppy inside, it was unbelievable.",surprise
+My sister found an old photo hidden in a drawer and was totally caught off guard.,surprise
+"Honestly, he are waiting for risky medical test results and was really scared.",fear
+"She got cut off in traffic again, it ruined my mood completely.",anger
+"Today my family solved a really hard bug, it felt amazing.",joy
+My friend bumped into a celebrity at the mall and was amazed.,surprise
+"I got into the college of my dreams, I was grinning the entire time.",joy
+We just got a rude reply from support — it really wasn't fair.,anger
+My family cooked a perfect meal and couldn't stop smiling.,joy
+"Honestly, my family got selected for the internship and felt so happy.",joy
+She just had the internet go down during the exam — it was so frustrating.,anger
+My teammate have to walk home alone late at night and felt so anxious.,fear
+"Honestly, my teammate planned a surprise trip for the family and felt so much warmth.",love
+My friend just finished the project on time — I was grinning the entire time.,joy
+My family just lost the match in the final over — I just wanted to be alone.,sadness
+"Honestly, he lost the match in the final over and felt like crying.",sadness
+My colleague just got a random bonus from work — I had to sit down for a second.,surprise
+"Honestly, he watched the sunset with someone special and felt so much warmth.",love
+My family just won the cricket match — it felt amazing.,joy
+"Today my teammate received a handmade gift from a sibling, I felt truly at peace.",love
+"My friend had to say goodbye to a close friend, it left me in tears.",sadness
+He cooked dinner together after a long time and felt so much warmth.,love
+"Today I got a rude reply from support, it ruined my mood completely.",anger
+"Today my sister reunited with childhood friends, it filled my heart.",love
+He cooked a perfect meal and felt so happy.,joy
+"My family planned a surprise trip for the family, it filled my heart.",love
+"Honestly, my colleague got blamed for someone else's mistake and felt so frustrated.",anger
+"I got a warm hug after a rough week, it was such a warm feeling.",love
+My family just couldn't attend the family function — it was a really hard day.,sadness
+"Today my colleague have a final viva next week, my hands were shaking.",fear
+"They learned the flight got upgraded for free, I had to sit down for a second.",surprise
+"Honestly, they found an old photo hidden in a drawer and was amazed.",surprise
+"Honestly, my family was accused of cheating unfairly and was really irritated.",anger
+My colleague just didn't get the internship offer — I just wanted to be alone.,sadness
+"Today he lost the way on a dark road, it kept me on edge.",fear
+They just lost an important file before submission — it was a really hard day.,sadness
+"Honestly, I have to give a presentation tomorrow and was really scared.",fear
+"Honestly, he saw a surprise party waiting at home and was stunned.",surprise
+"Today I celebrated an anniversary with loved ones, it filled my heart.",love
+"I got blamed for someone else's mistake, it was so frustrating.",anger
+They found the code deleted with no backup and felt so frustrated.,anger
+"Today he watched the team lose in the last minute, it was a really hard day.",sadness
+She lost the match in the final over and felt like crying.,sadness
+My friend felt the ground shake during the earthquake drill and felt a wave of panic.,fear
+"Honestly, my sister have a final viva next week and was terrified.",fear
+"Today he reunited with childhood friends, it meant the world to me.",love
+My family lost an important file before submission and was devastated.,sadness
+"We had the internet go down during the exam, it ruined my mood completely.",anger
+"Honestly, he solved a really hard bug and felt absolutely thrilled.",joy
+"Honestly, she found the code deleted with no backup and felt so frustrated.",anger
+My family found out the exam was cancelled and was stunned.,surprise
+My colleague just received disappointing feedback on the project — it was a really hard day.,sadness
+My friend just got a warm hug after a rough week — it was such a warm feeling.,love
+My friend just planned a surprise trip for the family — it was such a warm feeling.,love
+"They finished the project on time, it was such a happy moment.",joy
+"Honestly, she waited two hours for a delayed flight and was furious.",anger
+My teammate have to give a presentation tomorrow and felt a wave of panic.,fear
+My sister received disappointing feedback on the project and was devastated.,sadness
+"My sister solved a really hard bug, it made my whole day.",joy
+"My sister received a handmade gift from a sibling, I felt truly at peace.",love
+My teammate was ignored during the meeting and felt so frustrated.,anger
+My family just spent the whole evening with family — I felt truly at peace.,love
+My sister just cooked a perfect meal — it was such a happy moment.,joy
+"He had the internet go down during the exam, it was so frustrating.",anger
+"Today we lost the way on a dark road, I barely slept that night.",fear
+"She opened the box to find a puppy inside, it was unbelievable.",surprise
+"Today my friend got a surprise gift, it felt amazing.",joy
+They just spent the weekend alone and unwell — it was a really hard day.,sadness
+"Honestly, my friend found an old photo hidden in a drawer and was totally caught off guard.",surprise
+"Today they won the cricket match, I was grinning the entire time.",joy
+"Today my friend learned the flight got upgraded for free, I had to sit down for a second.",surprise
+They couldn't attend the family function and felt heartbroken.,sadness
+"He might fail the upcoming interview, it kept me on edge.",fear
+"Honestly, my sister got blamed for someone else's mistake and was really irritated.",anger
+"Honestly, my teammate saw a surprise party waiting at home and was stunned.",surprise
+"Honestly, we received disappointing feedback on the project and felt like crying.",sadness
+"My family might lose the job after the merger, I barely slept that night.",fear
+She just received an unexpected job offer — nobody saw it coming.,surprise
+"Today my sister got a random bonus from work, it was unbelievable.",surprise
+We might fail the upcoming interview and felt so anxious.,fear
+"Today my friend didn't get the internship offer, it was a really hard day.",sadness
+"Today we learned the flight got upgraded for free, I had to sit down for a second.",surprise
+"Honestly, my colleague received a handmade gift from a sibling and cherished every moment.",love
+"My teammate met an old friend after years, it was such a happy moment.",joy
+"I passed the final exam, it felt amazing.",joy
+My teammate got selected for the internship and felt so happy.,joy
+"Honestly, my colleague won the cricket match and felt on top of the world.",joy
+"Today my teammate saw a shooting star for the first time, nobody saw it coming.",surprise
+"He got a surprise gift, it made my whole day.",joy
+"I might fail the upcoming interview, my hands were shaking.",fear
+"Honestly, they saw a surprise party waiting at home and was stunned.",surprise
+"My sister failed the exam despite studying hard, it left me in tears.",sadness
+"She adopted a puppy from the shelter, I felt truly at peace.",love
+"Today she won the cricket match, it felt amazing.",joy
+"My family got a heartfelt letter from a close friend, it was such a warm feeling.",love
+I just heard strange noises outside at night — it kept me on edge.,fear
+They got a rude reply from support and felt so frustrated.,anger
+"Today my teammate got an unexpected call from an old friend, it caught everyone off guard.",surprise
+"He received a handmade gift from a sibling, it filled my heart.",love
+My friend got a random bonus from work and was totally caught off guard.,surprise
+My colleague just celebrated an anniversary with loved ones — I felt truly at peace.,love
+"We finished the project on time, it felt amazing.",joy
+He kept getting spam calls all day and felt so frustrated.,anger
+"They had to say goodbye to a close friend, I just wanted to be alone.",sadness
+I just bumped into a celebrity at the mall — nobody saw it coming.,surprise
+"I cooked dinner together after a long time, it was such a warm feeling.",love
+"They might fail the upcoming interview, I couldn't stop worrying.",fear
+She got an unexpected call from an old friend and was stunned.,surprise
+"Today my colleague met an old friend after years, it felt amazing.",joy
+They just might lose the job after the merger — it kept me on edge.,fear
+"Today I got selected for the internship, it made my whole day.",joy
+We got into the college of my dreams and felt absolutely thrilled.,joy
+My colleague just had to say goodbye to a close friend — it hurt more than expected.,sadness
+"We opened the box to find a puppy inside, it caught everyone off guard.",surprise
+"Today my colleague cooked dinner together after a long time, it filled my heart.",love
+My friend just watched the team lose in the last minute — it was a really hard day.,sadness
+"Today we found an old photo hidden in a drawer, I had to sit down for a second.",surprise
+We passed the final exam and couldn't stop smiling.,joy
+"My colleague finished the project on time, it made my whole day.",joy
+"She cooked a perfect meal, it was such a happy moment.",joy
+"I was accused of cheating unfairly, I couldn't calm down for hours.",anger
+We just got a random bonus from work — it caught everyone off guard.,surprise
+My teammate just solved a really hard bug — it made my whole day.,joy
+"Today my sister lost the way on a dark road, it kept me on edge.",fear
+She received disappointing feedback on the project and was devastated.,sadness
+My friend just was accused of cheating unfairly — it ruined my mood completely.,anger
+He finished the project on time and felt absolutely thrilled.,joy
+"Honestly, I got a heartfelt letter from a close friend and felt so much warmth.",love
+She just was accused of cheating unfairly — I couldn't calm down for hours.,anger
+"Honestly, my colleague saw a shooting star for the first time and was stunned.",surprise
+"Today he didn't get the internship offer, it was a really hard day.",sadness
+They just was ignored during the meeting — it really wasn't fair.,anger
+"I received an unexpected job offer, I had to sit down for a second.",surprise
+My colleague might fail the upcoming interview and was shaking with worry.,fear
+"My sister won the cricket match, it was such a happy moment.",joy
+"Honestly, my colleague got a surprise gift and felt absolutely thrilled.",joy
+He was accused of cheating unfairly and was really irritated.,anger
+She got into the college of my dreams and was overjoyed.,joy
+"Today my family didn't get the internship offer, I just wanted to be alone.",sadness
+"Honestly, we lost an important file before submission and felt so low.",sadness
+"Honestly, she saw the server crash right before the demo and felt so anxious.",fear
+"Today my colleague found an old photo hidden in a drawer, nobody saw it coming.",surprise
+"My teammate kept getting spam calls all day, I couldn't calm down for hours.",anger
+"Today I are waiting for risky medical test results, it kept me on edge.",fear
+My sister just spent the whole evening with family — it was such a warm feeling.,love
+"Today my colleague bumped into a celebrity at the mall, I had to sit down for a second.",surprise
+"I got cut off in traffic again, it really wasn't fair.",anger
+My friend cooked a perfect meal and felt on top of the world.,joy
+"Today they got promoted at work, it made my whole day.",joy
+"Honestly, they have a final viva next week and was really scared.",fear
+"My colleague solved a really hard bug, it made my whole day.",joy
+He just found an old photo hidden in a drawer — it was unbelievable.,surprise
+"Honestly, my friend couldn't attend the family function and felt like crying.",sadness
+"Today we got a surprise gift, it made my whole day.",joy
+"He got promoted at work, I was grinning the entire time.",joy
+My colleague saw a surprise party waiting at home and was amazed.,surprise
+My teammate didn't get the internship offer and felt so low.,sadness
+"Today my colleague have to walk home alone late at night, my hands were shaking.",fear
+I just missed the train home — I just wanted to be alone.,sadness
+"Today they are waiting for risky medical test results, I barely slept that night.",fear
+I got an unexpected call from an old friend and was completely shocked.,surprise
+We got a heartfelt letter from a close friend and felt deeply connected.,love
+"Today my sister got a warm hug after a rough week, it filled my heart.",love
+I won the cricket match and felt so happy.,joy
+"Honestly, my family are waiting for risky medical test results and was shaking with worry.",fear
+"Honestly, my colleague was ignored during the meeting and couldn't control the anger.",anger
+"Today my family saw a shooting star for the first time, I had to sit down for a second.",surprise
+They just have to walk home alone late at night — I couldn't stop worrying.,fear
+"Today my teammate felt the ground shake during the earthquake drill, I couldn't stop worrying.",fear
+She just got a heartfelt letter from a close friend — it filled my heart.,love
+"My colleague have to give a presentation tomorrow, it kept me on edge.",fear
+"Honestly, my friend received disappointing feedback on the project and was devastated.",sadness
+She just have a final viva next week — I couldn't stop worrying.,fear
+"Honestly, my teammate spent the whole evening with family and felt deeply connected.",love
+"Honestly, they got an unexpected call from an old friend and was completely shocked.",surprise
+My sister saw the server crash right before the demo and felt a wave of panic.,fear
+"She missed the train home, it left me in tears.",sadness
+My sister just learned the flight got upgraded for free — it caught everyone off guard.,surprise
+"Honestly, my family have to give a presentation tomorrow and felt a wave of panic.",fear
+"Honestly, he received disappointing feedback on the project and felt heartbroken.",sadness
+"We are waiting for risky medical test results, I barely slept that night.",fear
+He just couldn't attend the family function — it hurt more than expected.,sadness
+My sister just saw the project credit given to someone else — it ruined my mood completely.,anger
+"Today I had to say goodbye to a close friend, it was a really hard day.",sadness
+"Today I received disappointing feedback on the project, I just wanted to be alone.",sadness
+We just watched the sunset with someone special — it meant the world to me.,love
+"Honestly, they adopted a puppy from the shelter and cherished every moment.",love
+She kept getting spam calls all day and felt so frustrated.,anger
+My sister just watched the team lose in the last minute — I just wanted to be alone.,sadness
+We just got promoted at work — it was such a happy moment.,joy
+My friend received an unexpected job offer and was completely shocked.,surprise
+"Honestly, she passed the final exam and felt absolutely thrilled.",joy
+We just couldn't attend the family function — it was a really hard day.,sadness
+"We got a warm hug after a rough week, it filled my heart.",love
+"My sister spent the weekend alone and unwell, it was a really hard day.",sadness
+I just found the code deleted with no backup — it ruined my mood completely.,anger
+"Honestly, my sister received an unexpected job offer and was totally caught off guard.",surprise
+"Honestly, my sister had the internet go down during the exam and was really irritated.",anger
+My teammate just are waiting for risky medical test results — it kept me on edge.,fear
+My teammate won the cricket match and felt absolutely thrilled.,joy
+"Today she lost the way on a dark road, my hands were shaking.",fear
+We lost the match in the final over and felt so low.,sadness
+My colleague just kept getting spam calls all day — it ruined my mood completely.,anger
+"Today my sister couldn't attend the family function, it left me in tears.",sadness
+My friend just saw a surprise party waiting at home — nobody saw it coming.,surprise
+My teammate missed the train home and felt really down.,sadness
+I just saw a shooting star for the first time — it was unbelievable.,surprise
+My sister have to give a presentation tomorrow and was terrified.,fear
+She reunited with childhood friends and felt so loved.,love
+"Honestly, my colleague got a warm hug after a rough week and felt so much warmth.",love
+My friend lost an important file before submission and was devastated.,sadness
+"My family missed the train home, it left me in tears.",sadness
+We got an unexpected call from an old friend and couldn't believe it.,surprise
+"Honestly, we missed the train home and felt so low.",sadness
+She spent the weekend alone and unwell and felt really down.,sadness
+They cooked a perfect meal and felt so happy.,joy
+"Today they got a warm hug after a rough week, it was such a warm feeling.",love
+We bumped into a celebrity at the mall and was totally caught off guard.,surprise
+He just bumped into a celebrity at the mall — I had to sit down for a second.,surprise
+"Honestly, she might lose the job after the merger and felt a wave of panic.",fear
+"Today my colleague failed the exam despite studying hard, it left me in tears.",sadness
+"My sister got a rude reply from support, it was so frustrating.",anger
+"Today my teammate adopted a puppy from the shelter, it was such a warm feeling.",love
+"They watched the sunset with someone special, it meant the world to me.",love
+"Honestly, he saw the project credit given to someone else and was fuming.",anger
+"My colleague cooked a perfect meal, it made my whole day.",joy
+"Honestly, my teammate heard strange noises outside at night and was really scared.",fear
+"Honestly, they missed the train home and felt really down.",sadness
+My teammate got a rude reply from support and was furious.,anger
+"Today we was ignored during the meeting, I couldn't calm down for hours.",anger
+"Today he might lose the job after the merger, it kept me on edge.",fear
+My teammate just spent the weekend alone and unwell — I just wanted to be alone.,sadness
+"We planned a surprise trip for the family, it meant the world to me.",love
+I spent the weekend alone and unwell and felt so low.,sadness
+"Today she found out the exam was cancelled, nobody saw it coming.",surprise
+She bumped into a celebrity at the mall and was amazed.,surprise
+"Honestly, my family celebrated an anniversary with loved ones and cherished every moment.",love
+"We waited two hours for a delayed flight, I couldn't calm down for hours.",anger
+My friend just opened the box to find a puppy inside — I had to sit down for a second.,surprise
+"Honestly, my sister bumped into a celebrity at the mall and was amazed.",surprise
+"Today my friend got blamed for someone else's mistake, it ruined my mood completely.",anger
+"Today I didn't get the internship offer, it was a really hard day.",sadness
+"Today he adopted a puppy from the shelter, it was such a warm feeling.",love
+My friend waited two hours for a delayed flight and was really irritated.,anger
+My sister got into the college of my dreams and was overjoyed.,joy
+My friend just was ignored during the meeting — it was so frustrating.,anger
+My teammate just lost the match in the final over — it left me in tears.,sadness
+"Today she saw the project credit given to someone else, I couldn't calm down for hours.",anger
+"Honestly, I solved a really hard bug and couldn't stop smiling.",joy
+They just got into the college of my dreams — it made my whole day.,joy
+They just felt the ground shake during the earthquake drill — my hands were shaking.,fear
+My family just have to walk home alone late at night — my hands were shaking.,fear
+"Today they got cut off in traffic again, it ruined my mood completely.",anger
+My friend met an old friend after years and felt absolutely thrilled.,joy
+She just didn't get the internship offer — I just wanted to be alone.,sadness
+"Honestly, I adopted a puppy from the shelter and felt truly grateful.",love
+My sister got a surprise gift and felt on top of the world.,joy
+"My friend received a handmade gift from a sibling, it was such a warm feeling.",love
+"Today my friend are waiting for risky medical test results, I couldn't stop worrying.",fear
+My colleague heard strange noises outside at night and felt so anxious.,fear
+They have to give a presentation tomorrow and was shaking with worry.,fear
+"My teammate had the internet go down during the exam, I couldn't calm down for hours.",anger
+My colleague got into the college of my dreams and felt so happy.,joy
+We just saw the project credit given to someone else — it really wasn't fair.,anger
+They saw the server crash right before the demo and felt a wave of panic.,fear
+"My teammate got a random bonus from work, it was unbelievable.",surprise
+My teammate might lose the job after the merger and was shaking with worry.,fear
+"Honestly, my friend spent the weekend alone and unwell and felt so low.",sadness
+They saw the project credit given to someone else and was really irritated.,anger
+"Honestly, my family reunited with childhood friends and felt so loved.",love
+"Honestly, my friend reunited with childhood friends and felt deeply connected.",love
+My sister found out the exam was cancelled and was completely shocked.,surprise
+We cooked dinner together after a long time and felt so loved.,love
+My colleague learned the flight got upgraded for free and was stunned.,surprise
+My friend got selected for the internship and felt on top of the world.,joy
+"Honestly, she might fail the upcoming interview and felt a wave of panic.",fear
+"Today they celebrated an anniversary with loved ones, it filled my heart.",love
+"Today my sister heard strange noises outside at night, it kept me on edge.",fear
+I just reunited with childhood friends — it filled my heart.,love
+They opened the box to find a puppy inside and was stunned.,surprise
+My friend got cut off in traffic again and couldn't control the anger.,anger
+"Honestly, they spent the whole evening with family and felt deeply connected.",love
+My colleague just found out the exam was cancelled — it caught everyone off guard.,surprise
+My teammate just received disappointing feedback on the project — I just wanted to be alone.,sadness
+"Today my colleague couldn't attend the family function, it was a really hard day.",sadness
+I cooked a perfect meal and was overjoyed.,joy
+"Honestly, we got cut off in traffic again and was furious.",anger
+My family just got a warm hug after a rough week — I felt truly at peace.,love
+My colleague just had the internet go down during the exam — it really wasn't fair.,anger
+My teammate just might fail the upcoming interview — I barely slept that night.,fear
+My family watched the sunset with someone special and felt so loved.,love
+"Honestly, my sister found the code deleted with no backup and couldn't control the anger.",anger
+"Honestly, he saw a shooting star for the first time and was totally caught off guard.",surprise
+"My family got a rude reply from support, it really wasn't fair.",anger
+My teammate got a warm hug after a rough week and felt so loved.,love
+I just lost the way on a dark road — my hands were shaking.,fear
+"My family had to say goodbye to a close friend, I just wanted to be alone.",sadness
+"Honestly, my sister have to walk home alone late at night and was really scared.",fear
+My friend have a final viva next week and felt so anxious.,fear
+"Honestly, we saw a shooting star for the first time and was completely shocked.",surprise
+My teammate just watched the sunset with someone special — it was such a warm feeling.,love
+"Today my friend watched the sunset with someone special, it filled my heart.",love
+"Honestly, my friend lost the way on a dark road and felt a wave of panic.",fear
+My teammate just watched the team lose in the last minute — it left me in tears.,sadness
+"Honestly, my sister passed the final exam and felt absolutely thrilled.",joy
+My friend just got a heartfelt letter from a close friend — it filled my heart.,love
+My sister watched the sunset with someone special and felt truly grateful.,love
+My sister met an old friend after years and felt so happy.,joy
+He just got cut off in traffic again — it ruined my mood completely.,anger
+"Honestly, my teammate saw the project credit given to someone else and couldn't control the anger.",anger
+"Honestly, we found the code deleted with no backup and was furious.",anger
+"Honestly, my friend got an unexpected call from an old friend and was stunned.",surprise
+"My sister lost the match in the final over, it left me in tears.",sadness
+My teammate have a final viva next week and was really scared.,fear
+My sister got promoted at work and felt absolutely thrilled.,joy
+My friend just solved a really hard bug — it felt amazing.,joy
+"Today my teammate learned the flight got upgraded for free, I had to sit down for a second.",surprise
+"Honestly, she got promoted at work and couldn't stop smiling.",joy
+My sister celebrated an anniversary with loved ones and felt deeply connected.,love
+"Today my teammate opened the box to find a puppy inside, it was unbelievable.",surprise
+"My teammate got blamed for someone else's mistake, I couldn't calm down for hours.",anger
+"I have to walk home alone late at night, it kept me on edge.",fear
+"Honestly, I failed the exam despite studying hard and felt like crying.",sadness
+"My sister got selected for the internship, it felt amazing.",joy
+"Honestly, my colleague felt the ground shake during the earthquake drill and felt so anxious.",fear
+"Honestly, my teammate bumped into a celebrity at the mall and couldn't believe it.",surprise
+"Honestly, my colleague saw the project credit given to someone else and couldn't control the anger.",anger
+"Honestly, my sister had to say goodbye to a close friend and felt like crying.",sadness
+I got a random bonus from work and was completely shocked.,surprise
+They just failed the exam despite studying hard — it was a really hard day.,sadness
+"I spent the whole evening with family, it meant the world to me.",love
+"We solved a really hard bug, it made my whole day.",joy
+"Today my teammate got a surprise gift, it was such a happy moment.",joy
+"Today my teammate got promoted at work, it made my whole day.",joy
+"My friend might fail the upcoming interview, I couldn't stop worrying.",fear
+"We spent the whole evening with family, I felt truly at peace.",love
+My friend might lose the job after the merger and felt a wave of panic.,fear
+She saw a surprise party waiting at home and was stunned.,surprise
+We had to say goodbye to a close friend and felt like crying.,sadness
+My sister just cooked dinner together after a long time — it meant the world to me.,love
+"Honestly, my sister got an unexpected call from an old friend and was stunned.",surprise
+"Today my colleague watched the sunset with someone special, I felt truly at peace.",love
+They just bumped into a celebrity at the mall — it caught everyone off guard.,surprise
+"Honestly, they watched the team lose in the last minute and was devastated.",sadness
+"Today he got into the college of my dreams, it made my whole day.",joy
+"He planned a surprise trip for the family, it filled my heart.",love
+"Honestly, my colleague got cut off in traffic again and was furious.",anger
+My colleague just lost an important file before submission — it was a really hard day.,sadness
+"Today she watched the sunset with someone special, it was such a warm feeling.",love
+"Honestly, my colleague was accused of cheating unfairly and was fuming.",anger
+"Today they waited two hours for a delayed flight, it was so frustrating.",anger
+"Honestly, she met an old friend after years and felt on top of the world.",joy
+"Today I saw the project credit given to someone else, it ruined my mood completely.",anger
+She just got selected for the internship — I was grinning the entire time.,joy
+"Honestly, my sister saw a surprise party waiting at home and was amazed.",surprise
+"Today I kept getting spam calls all day, it was so frustrating.",anger
+"Today they heard strange noises outside at night, I couldn't stop worrying.",fear
+"My colleague watched the team lose in the last minute, it hurt more than expected.",sadness
+My sister just might fail the upcoming interview — it kept me on edge.,fear
+He lost an important file before submission and felt so low.,sadness
+"Today my colleague opened the box to find a puppy inside, I had to sit down for a second.",surprise
+My teammate just cooked a perfect meal — it was such a happy moment.,joy
+She just got blamed for someone else's mistake — it was so frustrating.,anger
+"Honestly, my family got a surprise gift and felt on top of the world.",joy
+He received an unexpected job offer and couldn't believe it.,surprise
+I finished the project on time and felt absolutely thrilled.,joy
+My sister just was ignored during the meeting — it really wasn't fair.,anger
+"We spent the weekend alone and unwell, it left me in tears.",sadness
+We got blamed for someone else's mistake and felt so frustrated.,anger
+"Honestly, we saw the server crash right before the demo and was terrified.",fear
+"Today he saw the server crash right before the demo, my hands were shaking.",fear
+"Honestly, he got an unexpected call from an old friend and couldn't believe it.",surprise
+My family got an unexpected call from an old friend and was stunned.,surprise
+"Honestly, I have a final viva next week and was really scared.",fear
+"She cooked dinner together after a long time, I felt truly at peace.",love
+She just received a handmade gift from a sibling — I felt truly at peace.,love
+She got a surprise gift and was overjoyed.,joy
+"Today she finished the project on time, I was grinning the entire time.",joy
+My colleague just lost the match in the final over — it was a really hard day.,sadness
+"They had the internet go down during the exam, it was so frustrating.",anger
+My friend lost the match in the final over and felt heartbroken.,sadness
+She had to say goodbye to a close friend and was devastated.,sadness
+"Today my family received a handmade gift from a sibling, it filled my heart.",love
+"Honestly, he was ignored during the meeting and couldn't control the anger.",anger
+"Today my family had the internet go down during the exam, I couldn't calm down for hours.",anger
+"Honestly, my sister adopted a puppy from the shelter and felt so loved.",love
+My colleague received an unexpected job offer and couldn't believe it.,surprise
+My teammate got a heartfelt letter from a close friend and cherished every moment.,love
+My friend passed the final exam and felt on top of the world.,joy
+My friend celebrated an anniversary with loved ones and felt truly grateful.,love
+My teammate just celebrated an anniversary with loved ones — it filled my heart.,love
+"Honestly, we reunited with childhood friends and felt truly grateful.",love
+"Today my family saw the project credit given to someone else, it was so frustrating.",anger
+"Honestly, he got a rude reply from support and was really irritated.",anger
+"Today my teammate got cut off in traffic again, it ruined my mood completely.",anger
+"Honestly, my family adopted a puppy from the shelter and felt so loved.",love
+"Honestly, my friend spent the whole evening with family and felt deeply connected.",love
+"Today my friend adopted a puppy from the shelter, I felt truly at peace.",love
+"Honestly, they didn't get the internship offer and felt really down.",sadness
+He got a warm hug after a rough week and felt deeply connected.,love
+He just have a final viva next week — it kept me on edge.,fear
+"My teammate had to say goodbye to a close friend, it left me in tears.",sadness
+"Today my family was ignored during the meeting, I couldn't calm down for hours.",anger
+She learned the flight got upgraded for free and couldn't believe it.,surprise
+"They lost the way on a dark road, I couldn't stop worrying.",fear
+"Today they was accused of cheating unfairly, it really wasn't fair.",anger
+"Today my family passed the final exam, it felt amazing.",joy
+"Today they solved a really hard bug, it felt amazing.",joy
+We just didn't get the internship offer — it left me in tears.,sadness
+My family got cut off in traffic again and felt so frustrated.,anger
+"Honestly, my teammate found an old photo hidden in a drawer and couldn't believe it.",surprise
+"Today my sister got cut off in traffic again, it was so frustrating.",anger
+"She lost an important file before submission, it left me in tears.",sadness
+"Honestly, they planned a surprise trip for the family and felt so much warmth.",love
+We just was accused of cheating unfairly — it ruined my mood completely.,anger
+"He celebrated an anniversary with loved ones, it filled my heart.",love
+"Honestly, I couldn't attend the family function and was devastated.",sadness
+She just celebrated an anniversary with loved ones — it filled my heart.,love
+My sister might lose the job after the merger and felt a wave of panic.,fear
+He had to say goodbye to a close friend and felt like crying.,sadness
+I just learned the flight got upgraded for free — it was unbelievable.,surprise
+My family just lost the way on a dark road — my hands were shaking.,fear
+She just felt the ground shake during the earthquake drill — I barely slept that night.,fear
+"Honestly, she have to give a presentation tomorrow and was really scared.",fear
+"We watched the team lose in the last minute, I just wanted to be alone.",sadness
+"We have to walk home alone late at night, I barely slept that night.",fear
+I had the internet go down during the exam and was fuming.,anger
+"Honestly, my sister saw a shooting star for the first time and was completely shocked.",surprise
+"Honestly, they saw a shooting star for the first time and couldn't believe it.",surprise
+"She saw a shooting star for the first time, I had to sit down for a second.",surprise
+My family just found an old photo hidden in a drawer — it was unbelievable.,surprise
+"My teammate failed the exam despite studying hard, it was a really hard day.",sadness
+My teammate passed the final exam and felt absolutely thrilled.,joy
+"Honestly, my sister finished the project on time and felt on top of the world.",joy
+"Honestly, my teammate found out the exam was cancelled and couldn't believe it.",surprise
+I saw the server crash right before the demo and was shaking with worry.,fear
+"Today my friend saw a shooting star for the first time, I had to sit down for a second.",surprise
+My family just got blamed for someone else's mistake — it really wasn't fair.,anger
+"Honestly, they found out the exam was cancelled and was amazed.",surprise
+"Honestly, I might lose the job after the merger and was shaking with worry.",fear
+"They kept getting spam calls all day, it really wasn't fair.",anger
+"Honestly, I planned a surprise trip for the family and cherished every moment.",love
+"Today he passed the final exam, it was such a happy moment.",joy
+"Honestly, she got a random bonus from work and was stunned.",surprise
+"My friend saw the project credit given to someone else, it ruined my mood completely.",anger
+My sister just waited two hours for a delayed flight — it was so frustrating.,anger
+"Today we met an old friend after years, it was such a happy moment.",joy
+"My colleague got selected for the internship, I was grinning the entire time.",joy
+She just solved a really hard bug — I was grinning the entire time.,joy
+"Today we won the cricket match, I was grinning the entire time.",joy
+"Honestly, we have a final viva next week and was terrified.",fear
+"My sister lost an important file before submission, it left me in tears.",sadness
+My family watched the team lose in the last minute and felt heartbroken.,sadness
+My sister missed the train home and felt like crying.,sadness
+They got a heartfelt letter from a close friend and felt truly grateful.,love
+"They got a surprise gift, it was such a happy moment.",joy
+"Today we adopted a puppy from the shelter, it was such a warm feeling.",love
+My friend just have to give a presentation tomorrow — my hands were shaking.,fear
+"Honestly, she couldn't attend the family function and was devastated.",sadness
+My colleague just waited two hours for a delayed flight — it was so frustrating.,anger
+"Today they reunited with childhood friends, it meant the world to me.",love
+I waited two hours for a delayed flight and was really irritated.,anger
+My family just kept getting spam calls all day — it was so frustrating.,anger
+"My colleague got promoted at work, it made my whole day.",joy
+They got blamed for someone else's mistake and felt so frustrated.,anger
+He got a heartfelt letter from a close friend and felt so loved.,love
+"My family saw the server crash right before the demo, I barely slept that night.",fear
+"He got blamed for someone else's mistake, I couldn't calm down for hours.",anger
+"He have to give a presentation tomorrow, it kept me on edge.",fear
+My teammate lost an important file before submission and felt really down.,sadness
+"Today my teammate couldn't attend the family function, it hurt more than expected.",sadness
+"My friend heard strange noises outside at night, it kept me on edge.",fear
+"My family spent the weekend alone and unwell, it hurt more than expected.",sadness
+"He spent the whole evening with family, it filled my heart.",love
+"She watched the team lose in the last minute, I just wanted to be alone.",sadness
+My family just met an old friend after years — it was such a happy moment.,joy
+"Honestly, my friend cooked dinner together after a long time and felt so much warmth.",love
+"We received an unexpected job offer, it caught everyone off guard.",surprise
+"Today he missed the train home, it was a really hard day.",sadness
+My colleague just spent the weekend alone and unwell — it left me in tears.,sadness
+My teammate cooked dinner together after a long time and felt so much warmth.,love
+"Honestly, he failed the exam despite studying hard and felt like crying.",sadness
+My family might fail the upcoming interview and was shaking with worry.,fear
+She planned a surprise trip for the family and felt so much warmth.,love
+My sister just opened the box to find a puppy inside — nobody saw it coming.,surprise
