@@ -1,7 +1,7 @@
 Markdown
 # 😊 Moodline — Emotion Detector from Text
 
-> **Moodline** is a Machine Learning + NLP web application that analyzes a sentence and predicts the user's emotion in real time. It classifies text into **6 emotions** and displays a matching emoji with a smooth, interactive web interface.
+> Moodline is a Machine Learning + NLP web application that analyzes a sentence and predicts the user's emotion in real time. It classifies text into 6 emotions and displays a matching emoji with a smooth, interactive web interface.
 
 ---
 
